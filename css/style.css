@@ -83,8 +83,12 @@ a, i {
 }
 
 /* GALLERY */
+.gallery h2 {
+    margin-top: 30px;
+}
+
 #cards {
-    margin-top:40px;
+    margin-top: 30px;
 }
 
 #card-art .card-img {
