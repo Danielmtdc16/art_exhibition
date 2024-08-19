@@ -81,3 +81,30 @@ a, i {
     left: 25px;
     bottom: 25px;
 }
+
+/* GALLERY */
+#cards {
+    margin-top:40px;
+}
+
+#card-art .card-img {
+    height: 250px;
+    margin-bottom: 15px;
+}
+
+/* IMAGENS */
+#img1 {
+    background-image: url("../img/g_2.jpg");
+}
+#img2 {
+    background-image: url("../img/g_3.jpg");
+}
+#img3 {
+    background-image: url("../img/g_4.jpg");
+}
+#img4 {
+    background-image: url("../img/g_5.jpg");
+}
+#img5 {
+    background-image: url("../img/g_6.jpg");
+}
