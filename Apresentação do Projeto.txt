@@ -1,3 +1,0 @@
-Este projeto consiste em um site responsivo desenvolvido para exibir artes urbanas.
-
-Possui um design minimalista e foi criado com Bootstrap para adicionar a responsividade.
