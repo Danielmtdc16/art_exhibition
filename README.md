@@ -1,6 +1,6 @@
 # Art
 
-<a href="https://danielmtdc16.github.io/art_exhibition/" target="_blank"><img src="img/imagem_site.png" alt="Imagem do Site Art Exhibition"></a>
+<a href="https://danielmtdc16.github.io/art_exhibition/" target="_blank"><img src="img/imagem_site.PNG" alt="Imagem do Site Art Exhibition"></a>
 
 ## Descrição
 
