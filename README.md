@@ -1,6 +1,6 @@
 # Art
 
-!(img/imagem_site.png)
+![Screenshot do Site](img/imagem_site.png)
 
 ## Descrição
 
